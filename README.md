@@ -7,6 +7,10 @@ The event encourages problem-solving and creativity, attracting a diverse commun
 
 Linked below are abstracted versions of the problem I was set (you can click on the Part One/Two sub headings on each page if you wish to see the original puzzle) along with the solution I came up with.
 - [Day 1 - Trebuchet?! - Deciphering Calibration Values](https://github.com/codehath/advent-of-code-2023/tree/main/day-1)
-- [Day 2 - Cube Conundrum](https://github.com/codehath/advent-of-code-2023/tree/main/day-2)
+- [Day 2 - Cube Conundrum](https://github.com/codehath/advent-of-code-2023/tree/main/day-2)  
+
+![Text](/assets/snail.gif)  
+![Text](/assets/night.jpg)  
+
 
 ---
