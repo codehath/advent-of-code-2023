@@ -13,14 +13,14 @@ Game 4: 1 green, 3 red, 6 blue; 3 green, 6 red; 3 green, 15 blue, 14 red
 Game 5: 6 red, 1 blue, 3 green; 2 blue, 1 red, 2 green  
 ```
 
-> In Game 1, three rounds of cubes are revealed:  
+> In __Game 1__, three rounds of cubes are revealed:  
 `-` Round One - 3 blue and  4 red cubes  
 `-` Round Two - 1 red, 2 green, 6 blue cubes  
 `-` Round Three - 2 green cubes
 
-> Games 1, 2, and 5 - would have been possible  
-Game 3 - would have been impossible because one round had 20 red cubes  
-Game 4 - impossible because a round had 15 blue cubes
+> __Games 1, 2, and 5__ - would have been possible  
+__Game 3__ - would have been impossible because one round had 20 red cubes  
+__Game 4__ - impossible because a round had 15 blue cubes
 
 >If you add up the IDs of the games that would have been possible, you get 8.
 
@@ -42,15 +42,14 @@ Game 4: 1 green, 3 red, 6 blue; 3 green, 6 red; 3 green, 15 blue, 14 red
 Game 5: 6 red, 1 blue, 3 green; 2 blue, 1 red, 2 green  
 ```
 
-> Game 1 - could have been played with as few as 4 red, 2 green, and 6 blue cubes. any fewer and the game would have been impossible.  
-Game 2 - minimum of 1 red, 3 green, and 4 blue cubes.  
-Game 3 - at least 20 red, 13 green, and 6 blue cubes.  
-Game 4 - required at least 14 red, 3 green, and 15 blue cubes.  
-Game 5 - needed 6 red, 3 green, and 2 blue cubes in the bag.
+> __Game 1__ - could have been played with as few as 4 red, 2 green, and 6 blue cubes. any fewer and the game would have been impossible.  
+__Game 2__ - minimum of 1 red, 3 green, and 4 blue cubes.  
+__Game 3__ - at least 20 red, 13 green, and 6 blue cubes.  
+__Game 4__ - required at least 14 red, 3 green, and 15 blue cubes.  
+__Game 5__ - needed 6 red, 3 green, and 2 blue cubes in the bag.
 
-> The power of the minimum set of cubes in game 1 is 48.  
-In games 2-5; 12, 1560, 630, and 36, respectively.  
-The sum is 2286.
+> The power of the minimum set of cubes in Game 1 is 48.  
+In Games 2-5; 12, 1560, 630, and 36, respectively.  The sum is 2286.
 
 For each game, find the minimum set of cubes that must have been present. Calculate the sum of the powers of these sets.
 
