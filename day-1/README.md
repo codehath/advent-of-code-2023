@@ -1,4 +1,4 @@
-# Day 1 -  Deciphering Calibration Values
+# Day 1 - Trebuchet?! - Deciphering Calibration Values
 
 ## Part One: Identifying Digits - [Original Puzzle](https://adventofcode.com/2023/day/1)
 You're tasked with deciphering calibration values hidden within a modified document. The calibration values are derived by extracting the first and last digits from each line and summing them up.
@@ -14,7 +14,7 @@ __Example:__
 
 Consider your entire calibration document. What is the sum of all of the calibration values?
 
-__My Solution:__
+__[My Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-1/advent_day_1.1.py)__
 ```
 from input_data import input_day_01 as file
 
