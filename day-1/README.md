@@ -14,7 +14,7 @@ __Example:__
 
 Consider your entire calibration document. What is the sum of all of the calibration values?
 
-__[My Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-1/advent_day_1.1.py)__
+__[My Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-1/advent_day_1.1.py)__ - [Input Data](https://github.com/codehath/advent-of-code-2023/blob/main/day-1/input/input_day_01.txt)
 ```
 from input_data import input_day_01 as file
 
@@ -47,7 +47,7 @@ __Example:__
 
 What is the sum of all of the calibration values?
 
-__[My Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-1/advent_day_1.2.py)__
+__[My Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-1/advent_day_1.2.py)__ - [Input Data](https://github.com/codehath/advent-of-code-2023/blob/main/day-1/input/input_day_01.txt)
 
 ---
 [< Back to all solutions](https://github.com/codehath/advent-of-code-2023/tree/main)
