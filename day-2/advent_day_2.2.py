@@ -1,5 +1,4 @@
-import re
-import math
+import re, math
 from input_data import input_day_02 as file
 
 split_characters = ' ,;:'
