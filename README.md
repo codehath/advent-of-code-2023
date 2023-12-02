@@ -9,8 +9,6 @@ Linked below are abstracted versions of the problem I was set (you can click on 
 - [Day 1 - Trebuchet?! - Deciphering Calibration Values](https://github.com/codehath/advent-of-code-2023/tree/main/day-1)
 - [Day 2 - Cube Conundrum](https://github.com/codehath/advent-of-code-2023/tree/main/day-2)  
 
-![Text](/assets/snail.gif)  
 ![Text](/assets/night.jpg)  
-
 
 ---
