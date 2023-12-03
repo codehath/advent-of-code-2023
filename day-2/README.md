@@ -1,7 +1,7 @@
 # Day 2 - Cube Conundrum
 
 ## Part One: Possible Games - [Original Puzzle](https://adventofcode.com/2023/day/1)
-In this puzzle, you're presented with information about the cubes in a bag based on several games played. Each game has multiple rounds, the cubes are replaced after each round. Your task is to determine which games would have been possible if the bag contained only 12 red, 13 green, and 14 blue cubes.
+In this puzzle, you're presented with information about the cubes in a bag based on several games played. Each game has multiple rounds, the cubes are replaced after each round. A game is considered possible if it can be played with only the cubes contained in the bag, 12 red, 13 green, and 14 blue cubes. Otherwise, the game is impossible.
 
 __Example:__
 
@@ -24,13 +24,13 @@ __Game 4__ - impossible because a round had 15 blue cubes
 
 >If you add up the IDs of the games that would have been possible, you get 8.
 
-Determine which games would have been possible. What is the sum of the IDs of those games?
+Your task is to determine which games would have been possible. What is the sum of the IDs of those games?
 
 __[My Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-2/advent_day_2.1.py)__ - [Input Data](https://github.com/codehath/advent-of-code-2023/blob/main/day-2/input/input_day_02.txt)
 
 ## Part Two: Minimum Cube Sets - [Original Puzzle](https://adventofcode.com/2023/day/2)
 
-Find the minimum number of cubes of each color needed to make each game possible. The power of a set of cubes is the product of the number of red, green, and blue cubes. 
+The minimum set of cubes is the fewest number of cubes of each color that could have been in the bag to make the game possible. The power of a set of cubes is the product of the number of red, green, and blue cubes. 
 
 __Example:__
 
@@ -48,8 +48,8 @@ __Game 3__ - at least 20 red, 13 green, and 6 blue cubes.
 __Game 4__ - required at least 14 red, 3 green, and 15 blue cubes.  
 __Game 5__ - needed 6 red, 3 green, and 2 blue cubes in the bag.
 
-> The power of the minimum set of cubes in Game 1 is 48.  
-In Games 2-5; 12, 1560, 630, and 36, respectively.  The sum is 2286.
+> The power of the minimum set of cubes in __Game 1__ is 48.  
+In __Games 2-5__; 12, 1560, 630, and 36, respectively.  The sum is 2286.
 
 For each game, find the minimum set of cubes that must have been present. Calculate the sum of the powers of these sets.
 
