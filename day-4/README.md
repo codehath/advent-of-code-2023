@@ -19,13 +19,18 @@ Card 6: 31 18 13 56 72 | 74 77 10 23 35 67 36 11
 and the eight numbers you have (83, 86, 6, 31, 17, 9, 48, and 53).  
 Four of your numbers, 48, 83, 17, and 86 are winning numbers!  
 `-` That means __Card 1__ is worth 8 points (1 for the first match, then doubled three times for each of the three matches after the first).
+`-` __Card 2__ has two winning numbers (32 and 61), so it is worth 2 points.  
+`-` __Card 3__ has two winning numbers (1 and 21), so it is worth 2 points.  
+`-` __Card 4__ has one winning number (84), so it is worth 1 point.  
+`-` __Card 5__ has no winning numbers, so it is worth no points.  
+`-` __Card 6__ has no winning numbers, so it is worth no points.  
 
-> `-` That means __Card 1__ is worth 8 points (1 for the first match, then doubled three times for each of the three matches after the first).
-__Card 2__ has two winning numbers (32 and 61), so it is worth 2 points.  
-__Card 3__ has two winning numbers (1 and 21), so it is worth 2 points.  
-__Card 4__ has one winning number (84), so it is worth 1 point.  
-__Card 5__ has no winning numbers, so it is worth no points.  
-__Card 6__ has no winning numbers, so it is worth no points.  
+> `-` That means __Card 1__ is worth 8 points (1 for the first match, then doubled three times for each of the three matches after the first).  
+`-` __Card 2__ has two winning numbers (32 and 61), so it is worth 2 points.  
+`-` __Card 3__ has two winning numbers (1 and 21), so it is worth 2 points.  
+`-` __Card 4__ has one winning number (84), so it is worth 1 point.  
+`-` __Card 5__ has no winning numbers, so it is worth no points.  
+`-` __Card 6__ has no winning numbers, so it is worth no points.  
 
 > So, in this example, the Elf's pile of scratchcards is worth 13 points.
 
