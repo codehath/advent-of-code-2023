@@ -7,6 +7,7 @@ The event encourages problem-solving and creativity, attracting a diverse commun
 
 Linked below are abstracted versions of the problem I was set (you can click on the Part One/Two sub headings on each page if you wish to see the original puzzle) along with the solution I came up with.  
 
+[Day 4 - Scratchcards](https://github.com/codehath/advent-of-code-2023/blob/main/day-4/README.md)  
 [Day 3 - Gear Ratios](https://github.com/codehath/advent-of-code-2023/blob/main/day-3/README.md)  
 [Day 2 - Cube Conundrum](https://github.com/codehath/advent-of-code-2023/blob/main/day-2/README.md)  
 [Day 1 - Trebuchet?! - Deciphering Calibration Values](https://github.com/codehath/advent-of-code-2023/blob/main/day-1/README.md)  

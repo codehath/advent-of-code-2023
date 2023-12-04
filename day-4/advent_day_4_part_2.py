@@ -14,7 +14,6 @@ def calculate_quantities(scratch_cards):
             scratch_cards[card] += quantity
 
     scratch_cards = calculate_quantities(scratch_cards)
-
     return {**{scratch_card:quantity}, **scratch_cards}
 
 def calculate_matches(scratch_card):
@@ -38,7 +37,7 @@ def parse_data(file):
 
 def part_two():
     scratch_cards = parse_data(file)
-    processed_cards = calculate_quantities(dict.fromkeys(scratch_cards, 1))
+    processed_cards = calculate_quantities({scratch_card : 1 for scratch_card in scratch_cards})
     total = 0
     for quantity in processed_cards.values():
         total += quantity
