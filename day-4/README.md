@@ -1,5 +1,10 @@
 # Day 4 - Puzzle Name
 
+>[Full Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-4/advent_day_4.py)  - __[Run my Code]()__  
+__Days Comments:__
+Spent longer than I'd like to admit rewriting my code so that it works recursively.
+
+
 ## Part One: List Comparisons - [Original Puzzle](https://adventofcode.com/2023/day/4)
 
 You find a pile of scratchcards. Each scratchcard has two lists of numbers: a list of winning numbers and a list of your numbers. The goal is to count the points, where the first match earns 1 point, and subsequent matches double the point value. 
@@ -30,7 +35,7 @@ Four of your numbers, 48, 83, 17, and 86 are winning numbers!
 
 Look at the larger pile of scratchcards. How many points are they worth in total?
 
-__[My Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-4/advent_day_4.1.py)__ - [Input Data](https://github.com/codehath/advent-of-code-2023/blob/main/day-4/input/input_day_04.txt)
+__[My Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-4/advent_day_4_part_1.py)__ - [Input Data](https://github.com/codehath/advent-of-code-2023/blob/main/day-4/input/input_day_04.txt)
 
 ## Part Two: Recursive Functions - [Original Puzzle](https://adventofcode.com/2023/day/4)
 
@@ -70,7 +75,7 @@ Your one instance of __Card 6__ (one original) has no matching numbers and wins 
 
 Process all of the original and copied scratchcards until no more scratchcards are won. How many total scratchcards do you end up with?
 
-__[My Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-4/advent_day_4.2.py)__ - [Input Data](https://github.com/codehath/advent-of-code-2023/blob/main/day-4/input/input_day_04.txt)
+__[My Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-4/advent_day_4_part_2.py)__ - [Input Data](https://github.com/codehath/advent-of-code-2023/blob/main/day-4/input/input_day_04.txt)
 
 ---
 [< Back to all solutions](https://github.com/codehath/advent-of-code-2023/tree/main)
