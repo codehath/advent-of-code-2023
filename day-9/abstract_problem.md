@@ -1,6 +1,6 @@
 ## Day 9 - Puzzle Name
 
-> [Input Data](/day-9/input/input_day_09.txt) - [My Solution](/day-9/day_9.py) - [Original Problem](https://adventofcode.com/2023/day/9  )
+[Input Data](/day-9/input/input_day_09.txt) - [My Solution](/day-9/day_9.py) - [Original Problem](https://adventofcode.com/2023/day/9  )
 
 ---
 #### Part One: puz_name_1
@@ -47,4 +47,4 @@ __Game 5__ - needed 6 red, 3 green, and 2 blue cubes in the bag.
 What to work out?
 
 ---
-[< Back to all solutions](/advent-of-code-2023/tree/main)
+[< Back to all solutions](/README.md)

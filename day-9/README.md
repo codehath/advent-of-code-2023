@@ -11,7 +11,7 @@
 Created recursive function that 
 calculates increment between each number of a sequence, 
 calls itself recursively with these `increments` as the `sequence` parameter, 
-calculate the next number in the sequence using the recursive call 
+calculates the next number in the sequence using the recursive call 
 and returns it.
 
 ```python
@@ -38,3 +38,6 @@ Very straightforward, no issues today
 ---
 #### Things I thought about afterwards:
 To reduce repetition, could combine `next_in_sequence()` and `previous_in_sequence()` functions into a one by taking in an additional boolean parameter - representing whether the next or previous value in sequence is required.
+
+---
+[< Back to all solutions](/README.md)
