@@ -1,7 +1,9 @@
-# Day 9 - Puzzle Name
+## Day 9 - Puzzle Name
 
-## Part One: puz_name_1 - [Original Puzzle](https://adventofcode.com/2023/day/9)
+> [Input Data](/day-9/input/input_day_09.txt) - [My Solution](/day-9/day_9.py) - [Original Problem](https://adventofcode.com/2023/day/9  )
 
+---
+#### Part One: puz_name_1
 Puzzle Description
 
 __Example:__
@@ -21,9 +23,8 @@ sample data line 2
 
 What to work out?
 
-__[My Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-9/advent_day_9_1.py)__ - [Input Data](https://github.com/codehath/advent-of-code-2023/blob/main/day-9/input/input_day_09.txt)
-
-## Part Two: puz_name_2 - [Original Puzzle](https://adventofcode.com/2023/day/9)
+---
+#### Part Two: puz_name_2
 
 Puzzle Description. 
 
@@ -45,7 +46,5 @@ __Game 5__ - needed 6 red, 3 green, and 2 blue cubes in the bag.
 
 What to work out?
 
-__[My Solution](https://github.com/codehath/advent-of-code-2023/blob/main/day-9/advent_day_9_2.py)__ - [Input Data](https://github.com/codehath/advent-of-code-2023/blob/main/day-9/input/input_day_09.txt)
-
 ---
-[< Back to all solutions](https://github.com/codehath/advent-of-code-2023/tree/main)
+[< Back to all solutions](/advent-of-code-2023/tree/main)
