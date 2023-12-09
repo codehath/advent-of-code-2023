@@ -1,6 +1,6 @@
 ## Day 9 - Puzzle Name
 
-[Input Data](/day-9/input/input_day_09.txt) - [My Solution](/day-9/day_9.py) - [Original Problem](https://adventofcode.com/2023/day/9  )
+[Input Data](/day-9/input/input_day_09.txt) - [My Solution](/day-9/day_9.py) - [Overview](day-9/README.md) - [Original Problem](https://adventofcode.com/2023/day/9)
 
 ---
 #### Part One: puz_name_1
