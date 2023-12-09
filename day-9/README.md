@@ -1,13 +1,10 @@
-Original Problem - https://adventofcode.com/2023/day/9  
-Abstracted Problem - [Day 9 - Mirage Maintenance](/main/day-9/abstract_problem.md)
-
-
-[My Code](/main/day-9/day_9.py)
-
-__Computer Science Principles/Maths Used__  
-`-` Functional Programming  
-`-` Recursive Function Calls  
-
+> Original Problem - https://adventofcode.com/2023/day/9  
+> Abstracted Problem - [Day 9 - Mirage Maintenance](/day-9/abstract_problem.md)  
+> [My Code](/main/day-9/day_9.py)
+> 
+> __Computer Science Principles/Maths Used:__  
+> `-` Functional Programming  
+> `-` Recursive Function Calls  
 
 #### Thinking process
 Created recursive function that 
