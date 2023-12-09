@@ -1,20 +1,12 @@
-### Day 9 - Mirage Maintenance
 Original Problem - https://adventofcode.com/2023/day/9  
-[Abstracted Problem](/main/day-9/abstract_problem.md)
+Abstracted Problem - [Day 9 - Mirage Maintenance](/main/day-9/abstract_problem.md)
+
 
 [My Code](/main/day-9/day_9.py)
-
-Computer Science Principles/Maths Used  
-`-` __Functional Programming__  
-`-` __Recursive Function Calls__  
 
 __Computer Science Principles/Maths Used__  
 `-` Functional Programming  
 `-` Recursive Function Calls  
-
-#### Computer Science Principles/Maths Used  
-`-` __Functional Programming__  
-`-` __Recursive Function Calls__  
 
 
 #### Thinking process
